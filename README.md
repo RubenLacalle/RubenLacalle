@@ -7,7 +7,7 @@
 
 - ## 📫 ¿Cómo contactarme?
 
-- 📧 Email: [tu-email@example.com](mailto:tu-email@example.com)  
+- 📧 Email: [ruben.laczor@gmail.com](mailto:ruben.laczor@gmail.com)  
 <!--
 **RubenLacalle/RubenLacalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
