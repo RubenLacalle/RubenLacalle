@@ -1,24 +1,45 @@
-<div align="center">
-  <h1>Hola, soy Ruben Lacalle 👋</h1>
-</div>
+# 👋 ¡Hola! Soy Rubén Lacalle Zorrilla
 
-## Sobre mi
-- 💻Web developer
+🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**  
+💻 Apasionado por el desarrollo frontend y las tecnologías web modernas  
 
-- ## 📫 ¿Cómo contactarme?
+---
 
-- 📧 Email: [ruben.laczor@gmail.com](mailto:ruben.laczor@gmail.com)  
-<!--
-**RubenLacalle/RubenLacalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Sobre mí
 
-Here are some ideas to get you started:
+Actualmente me encuentro en formación como desarrollador de aplicaciones multiplataforma. Me interesa especialmente el desarrollo web y el aprendizaje continuo de nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta escribir código limpio, trabajar en equipo y enfrentar desafíos técnicos que me permitan crecer como profesional del software.
+
+---
+
+## 🛠 Tecnologías y herramientas
+
+- **Lenguajes:** JavaScript  
+- **Frameworks/Librerías:** React  
+- **Otros:** (pendiente de ampliar)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubenzorrilla&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<!-- Lenguajes más usados -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenzorrilla&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
+
+---
+
+## 🌐 Redes sociales
+
+*En construcción...* 🔧  
+Pronto incluiré mis redes y portfolio personal por aquí.
+
+---
+
+> 🧩 *Este README está en desarrollo. ¡Pronto más contenido!*
